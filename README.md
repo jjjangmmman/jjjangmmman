@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjjangmmman
-- 👀 I’m interested in Game.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in Game
+- 🌱 I’m currently learning DS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 'najung39@gmail.com'
 - 😄 Pronouns: ...
